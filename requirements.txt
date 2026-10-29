@@ -1,0 +1,5 @@
+Pillow>=10.1
+numpy>=1.22
+imageio-ffmpeg>=0.4
+# (bundles ffmpeg; a system ffmpeg on PATH is used first if present)
+# Optional narration on Windows/any OS: pyttsx3

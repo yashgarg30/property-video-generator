@@ -1,0 +1,23 @@
+{
+  "name": "Skyline Residency",
+  "location": "Sector 62, Gurugram",
+  "price": "₹1.25 Crore",
+  "property_type": "2 BHK Apartment",
+  "features": [
+    "Spacious living room with floor-to-ceiling windows",
+    "Modular kitchen with island counter",
+    "Master bedroom with sunset views",
+    "Private balcony overlooking the city skyline",
+    "Clubhouse with swimming pool"
+  ],
+  "cta": "Book your site visit today",
+  "contact": "+91 98765 43210 | sales@example-realty.com",
+  "images": [
+    "images/01_exterior.jpg",
+    "images/02_living_room.jpg",
+    "images/03_kitchen.jpg",
+    "images/04_bedroom.jpg",
+    "images/05_balcony_view.jpg",
+    "images/06_pool_amenity.jpg"
+  ]
+}

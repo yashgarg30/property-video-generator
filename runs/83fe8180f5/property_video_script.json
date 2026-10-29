@@ -1,0 +1,106 @@
+{
+  "input": {
+    "name": "Skyline Residency",
+    "location": "Sector 62, Gurugram",
+    "price": "₹1.25 Crore",
+    "property_type": "2 BHK Apartment",
+    "features": [
+      "Spacious living room with floor-to-ceiling windows",
+      "Modular kitchen with island counter",
+      "Master bedroom with sunset views",
+      "Private balcony overlooking the city skyline",
+      "Clubhouse with swimming pool"
+    ],
+    "cta": "Book your site visit today",
+    "contact": "+91 98765 43210 | sales@example-realty.com",
+    "images": [
+      "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\01_exterior.jpg",
+      "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\02_living_room.jpg",
+      "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\03_kitchen.jpg",
+      "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\04_bedroom.jpg",
+      "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\05_balcony_view.jpg",
+      "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\06_pool_amenity.jpg"
+    ]
+  },
+  "duration_sec": 34.29,
+  "scene_durations": [
+    6.83,
+    4.44,
+    3.71,
+    3.86,
+    4.77,
+    3.61,
+    3.66,
+    7.61
+  ],
+  "warnings": [],
+  "notes": [],
+  "source": "template",
+  "voiceover": "Introducing Skyline Residency, a 2 BHK Apartment in Sector 62, Gurugram. First up: spacious living room with floor-to-ceiling windows. Next: modular kitchen with island counter. Then: master bedroom with sunset views. You'll also love: private balcony overlooking the city skyline. And finally: clubhouse with swimming pool. Available at ₹1.25 Crore. Book your site visit today. Contact +91 98765 43210 or sales@example-realty.com.",
+  "scenes": [
+    {
+      "kind": "title",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\01_exterior.jpg",
+      "caption": "Skyline Residency",
+      "sub": "2 BHK Apartment  •  Sector 62, Gurugram",
+      "narration": "Introducing Skyline Residency, a 2 BHK Apartment in Sector 62, Gurugram.",
+      "zoom_in": true
+    },
+    {
+      "kind": "feature",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\02_living_room.jpg",
+      "caption": "Spacious living room with floor-to-ceiling windows",
+      "sub": "",
+      "narration": "First up: spacious living room with floor-to-ceiling windows.",
+      "zoom_in": false
+    },
+    {
+      "kind": "feature",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\03_kitchen.jpg",
+      "caption": "Modular kitchen with island counter",
+      "sub": "",
+      "narration": "Next: modular kitchen with island counter.",
+      "zoom_in": true
+    },
+    {
+      "kind": "feature",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\04_bedroom.jpg",
+      "caption": "Master bedroom with sunset views",
+      "sub": "",
+      "narration": "Then: master bedroom with sunset views.",
+      "zoom_in": false
+    },
+    {
+      "kind": "feature",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\05_balcony_view.jpg",
+      "caption": "Private balcony overlooking the city skyline",
+      "sub": "",
+      "narration": "You'll also love: private balcony overlooking the city skyline.",
+      "zoom_in": true
+    },
+    {
+      "kind": "feature",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\06_pool_amenity.jpg",
+      "caption": "Clubhouse with swimming pool",
+      "sub": "",
+      "narration": "And finally: clubhouse with swimming pool.",
+      "zoom_in": false
+    },
+    {
+      "kind": "price",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\01_exterior.jpg",
+      "caption": "₹1.25 Crore",
+      "sub": "Price",
+      "narration": "Available at ₹1.25 Crore.",
+      "zoom_in": true
+    },
+    {
+      "kind": "cta",
+      "image": "C:\\Users\\LENOVO\\Documents\\property-video-generator\\sample_data\\images\\01_exterior.jpg",
+      "caption": "Book your site visit today",
+      "sub": "+91 98765 43210 | sales@example-realty.com",
+      "narration": "Book your site visit today. Contact +91 98765 43210 or sales@example-realty.com.",
+      "zoom_in": false
+    }
+  ]
+}
